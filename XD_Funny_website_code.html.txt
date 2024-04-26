@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+	<h1>What my life is like in class owifweoifeorifjeoghiefo9rhfoeweioer4eioferioeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!</h1>
+	<p>PLSSS HELP MEEE aWAAaWAwAwawAWAWAW JOHNSON SO CRAZZY AAAAA SUSSY SAMMMMMMMMMMMMMMMMMMMMM</p>
+</body>
+<p>
+The most said things in class
+</p>
+<ul>
+    <li>ROBUX</li>
+    <li>SUSSY</li>
+    <li>AY YOOO</li>
+</ul>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJP_lB9McJ0?si=KyvTQ7SjGHNFuy3W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</html>
