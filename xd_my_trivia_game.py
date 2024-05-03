@@ -41,6 +41,37 @@ if answer_5.lower() == "true" or answer_5.lower() == "t":
 else:
     print("Incorrect, Sam is SUS")
 
+print("True or False... Is not Sam Gay")
+answer_5 = input(":")
+if answer_5.lower() == "false" or answer_5.lower() == "f":
+    print("Correct")
+    x = x + 1
+else:
+    print("Incorrect, Sam is Racist")
+    
+print("Who is making a gimkit to get a 10 dollar gift card")
+answer_4 = input("a)Neil\nb)Sam\nc)Kevin\nd)Johnson\n:")
+if answer_4.lower() == "d" or answer_4 == "Johnson":
+    print("Correct")
+    x = x + 1
+else:
+    print("Incorrect, It is Johnson")
+    
+print("Who doesn't have a girl friend")
+answer_4 = input("a)Neil\nb)Sam\nc)Johnathan\nd)Johnson\n:")
+if answer_4.lower() == "c" or answer_4 == "Johnathan":
+    print("Correct")
+    x = x + 1
+else:
+    print("Incorrect, It is Johnathan")
+    
+print("Who got lucky with coke")
+answer_4 = input("a)Neil\nb)Sam\nc)Johnathan\nd)Johnson\n:")
+if answer_4.lower() == "a" or answer_4 == "Neil":
+    print("Correct")
+    x = x + 1
+else:
+    print("Incorrect, The person that got lucky is Neil")
 
-score = float(x / 5) * 100
-print(x,"out of 5, that is",score, "%")
+score = float(x / 10) * 100
+print(x,"out of 10, that is",score, "%")
