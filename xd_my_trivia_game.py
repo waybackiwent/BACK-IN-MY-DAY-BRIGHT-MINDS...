@@ -72,6 +72,46 @@ if answer_4.lower() == "a" or answer_4 == "Neil":
     x = x + 1
 else:
     print("Incorrect, The person that got lucky is Neil")
+    
+print("Who are the people who play Blox Fruits")
+answer_4 = input("a)Neil_Johnathan_Kevin\nb)Sam_Neil_Johnson\nc)Johnathan_Neil_Sam\nd)Johnson_Neil_Bob\n:")
+if answer_4.lower() == "b" or answer_4 == "Sam_Neil_Johnson":
+    print("Correct")
+    x = x + 1
+else:
+    print("the people who play Blox Fruits are Sam_Neil_Johnson")
+    
+print("Who has the most brain rot")
+answer_4 = input("a)Kevin\nb)Johnson\nc)Sam\nd)Neil\n:")
+if answer_4.lower() == "b" or answer_4 == "Johnson":
+    print("Correct")
+    x = x + 1
+else:
+    print("The person with the most brain rot is JOHNSON")
+    
+print("Who wants to be racists")
+answer_4 = input("a)Johnson\nb)Neil\nc)Johnathan\nd)Bob\n:")
+if answer_4.lower() == "a" or answer_4 == "Johnson":
+    print("Correct")
+    x = x + 1
+else:
+    print("The person is Johnson")
+    
+print("Who is dieing ro4uhueUHI$EURGIU HEP PLS SAVE MEMEMEMEMEME")
+answer_4 = input("a)Johnson\nb)Neil\nc)Johnathan\nd)Eric\n:")
+if answer_4.lower() == "d" or answer_4 == "Eric":
+    print("Correct")
+    x = x + 1
+else:
+    print("The person is Eric AAAAAAAAAAAAEIFVIOEFHIUEFH")
+    
+print("LAST QUESTION what is (101*4+156)-5/5")
+answer_4 = input("a)541\nb)567\nc)559\nd)666\n:")
+if answer_4.lower() == "a" or answer_4 == "559":
+    print("Correct")
+    x = x + 1
+else:
+    print("it is 559")
 
-score = float(x / 10) * 100
-print(x,"out of 10, that is",score, "%")
+score = float(x / 15) * 100
+print(x,"out of 15, that is",score, "%")
